@@ -4,7 +4,7 @@
 # Convert the hex string to ascii characters.
 # hex_string = '6f20636b6e7077206772646c7a207a776b6a207075707365756c2078726b7674'
 # encoded_text = bytes.fromhex(hex_string).decode('utf-8')
-encoded_text = 'OTEwNTgyMTYzMzc4OTQxOTUy.YZU7uQ.CG3QweoAChfRrsm8ypOcnt3VsfA'
+encoded_text = 'Anykey'
 print(encoded_text)
 # At this point the text was what looked to be a cipher and my first thought was the only one I knew, the Caesar Cipher.
 # It was not that one so I then had to look up what the encrypted message was, and I found out that is was a Vigenère
